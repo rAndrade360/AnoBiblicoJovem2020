@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 210 297"
+   version="1.1"
+   id="svg103769"
+   inkscape:version="0.92.4 (5da689c313, 2019-01-14)"
+   sodipodi:docname="logo-ano.svg">
+  <defs
+     id="defs103763" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="1.979899"
+     inkscape:cx="420.17839"
+     inkscape:cy="625.47666"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1366"
+     inkscape:window-height="704"
+     inkscape:window-x="0"
+     inkscape:window-y="27"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata103766">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Camada 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <circle
+       style="opacity:1;fill:#152c54;fill-opacity:1;stroke:none;stroke-width:1.88048255;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="path832"
+       cx="124.41799"
+       cy="130.74896"
+       r="25.4"
+       inkscape:export-filename="/media/renan/Disco/Apps/Projetos React Native/anobiblico/assets/icona.png"
+       inkscape:export-xdpi="96.000031"
+       inkscape:export-ydpi="96.000031" />
+    <text
+       transform="scale(0.93410628,1.070542)"
+       id="text105477"
+       y="118.04179"
+       x="133.75842"
+       style="font-style:normal;font-weight:normal;font-size:3.99794459px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.09994861"
+       xml:space="preserve"
+       inkscape:export-filename="/media/renan/Disco/Apps/Projetos React Native/anobiblico/assets/icona.png"
+       inkscape:export-xdpi="96.000031"
+       inkscape:export-ydpi="96.000031"><tspan
+         dy="0 0 0 0 0"
+         style="font-size:5.99691772px;line-height:0.75;text-align:center;letter-spacing:-0.11394142px;word-spacing:-0.14992292px;text-anchor:middle;fill:#f9f9f9;stroke-width:0.09994861"
+         y="118.04179"
+         x="133.70145"
+         id="tspan105475"
+         sodipodi:role="line">    ANO BÍBLICO</tspan><tspan
+         id="tspan105479"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:13.32648182px;line-height:0.75;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';text-align:center;word-spacing:-0.00699639px;text-anchor:middle;fill:#f9f9f9;stroke-width:0.09994861"
+         y="127.96117"
+         x="133.75842"
+         sodipodi:role="line">Jovem</tspan></text>
+    <rect
+       style="opacity:1;fill:#152c54;fill-opacity:1;stroke-width:0.14255036"
+       id="rect42343"
+       width="10.677013"
+       height="5.2414432"
+       x="136.84125"
+       y="133.0159"
+       ry="2.9496951e-07"
+       inkscape:export-filename="/media/renan/Disco/Apps/Projetos React Native/anobiblico/assets/icona.png"
+       inkscape:export-xdpi="96.000031"
+       inkscape:export-ydpi="96.000031" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:4.93144464px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ffff00;fill-opacity:1;stroke:none;stroke-width:0.12328614"
+       x="152.07002"
+       y="124.48811"
+       id="text42347"
+       transform="scale(0.90400286,1.1061912)"
+       inkscape:export-filename="/media/renan/Disco/Apps/Projetos React Native/anobiblico/assets/icona.png"
+       inkscape:export-xdpi="96.000031"
+       inkscape:export-ydpi="96.000031"><tspan
+         sodipodi:role="line"
+         id="tspan42345"
+         x="152.07002"
+         y="124.48811"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Arial;-inkscape-font-specification:Arial;letter-spacing:-0.22324665px;fill:#ffff00;stroke-width:0.12328614">2020</tspan></text>
+  </g>
+</svg>
