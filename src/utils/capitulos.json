@@ -289,22 +289,17 @@
             },
             {
                 "dia":"26",
-                "texto":"Dt 4-5-6",
+                "texto":"Dt 4-5-6-7",
                 "status": false
             },
             {
                 "dia":"27",
-                "texto":"Dt 7-8-9",
+                "texto":"Dt 8-9-10-11",
                 "status": false
             },
             {
                 "dia":"28",
-                "texto":"Dt 10-11-12",
-                "status": false
-            },
-            {
-                "dia":"29",
-                "texto":"Dt 13-14",
+                "texto":"Dt 12-13-14",
                 "status": false
             }
         ]
